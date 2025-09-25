@@ -1,0 +1,17 @@
+.salon-title {
+    /* font-family: 'Montserrat', 'Raleway', 'Lato', sans-serif; */
+    font-family: 'Quicksand';
+    font-size: 3rem;           /* Large, bold text */
+    font-weight: 900;
+    letter-spacing: 2px;
+    color:#ffbb27;
+    margin: 40px 0 20px 0;
+    text-align: center;
+  }
+  
+  .rj-red {
+    color: #e53935;            /* Bright, elegant red */
+    font-size: 3.5rem;         /* Even larger for emphasis */
+    font-weight: 900;
+    letter-spacing: 4px;
+  }
